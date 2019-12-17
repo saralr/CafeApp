@@ -5,7 +5,10 @@
 * Description: L'application "CafeApp" permet de gérer le pari de café entre 2 personnes
 
 
-* L'application se constitue de 4 IHM principales:
+* L'application se constitue de 5 IHM principales:
+
+  - IHM: Splash Screen : 
+    IHM de lancement d'application qui dure 25s 
 
   - IHM: Sign up : 
     Cette IHM permet à un utilisateur de s'inscrire en renseignant une adresse mail et un mot de passe
